@@ -31,7 +31,9 @@ Sample dataset: `sustainability_sample.csv`
 Applied a custom **eco-theme** (green, blue, earthy tones) for a clean sustainability look.  
 
 ## 📷 Dashboard Preview
-👉 *(Insert screenshot here once built in Power BI)*  
+
+<img width="643" height="362" alt="image" src="https://github.com/user-attachments/assets/252eb49c-204d-41c1-8891-9d1fe7c396bc" />
+
 
 ## ⚡ Getting Started
 1. Open **Power BI Desktop**  
