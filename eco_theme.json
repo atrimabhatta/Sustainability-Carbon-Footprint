@@ -1,0 +1,24 @@
+{
+  "name": "Eco Sustainability Theme",
+  "dataColors": [
+    "#2E7D32", 
+    "#66BB6A", 
+    "#C8E6C9", 
+    "#FFB300", 
+    "#29B6F6", 
+    "#0288D1", 
+    "#8D6E63", 
+    "#A5D6A7"
+  ],
+  "background": "#F9FAF9",
+  "foreground": "#1B5E20",
+  "tableAccent": "#43A047",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "color": { "solid": { "color": "#1B5E20" } }, "fontSize": 14 }],
+        "label": [{ "color": { "solid": { "color": "#424242" } }, "fontSize": 12 }]
+      }
+    }
+  }
+}
