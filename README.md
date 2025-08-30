@@ -90,3 +90,5 @@ Here’s how to **arrange visuals step by step**:
 
 👉 Once done, you’ll have a **professional, recruiter-friendly, eco-themed sustainability dashboard** 🌍.
 
+## Author: Atrima
+
